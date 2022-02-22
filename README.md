@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="C:\Users\alexa\OneDrive\Área de Trabalho\Inicio.png" width="320" alt="Nest Logo" /></a>
+  <img src="C:\Users\alexa\OneDrive\Área de Trabalho\Inicio.png" width="520" alt=" Logo" /></a>
 </p>
 
 !(C:\Users\alexa\OneDrive\Área de Trabalho\Inicio.png
